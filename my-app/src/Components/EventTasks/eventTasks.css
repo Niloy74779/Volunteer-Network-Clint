@@ -1,0 +1,12 @@
+.event-tasks-page {
+    background: #E5E5E5;
+    min-height: 100vh
+}
+
+.tasks-box {
+    border-radius: 10px;
+}
+
+.task-info {
+    height: 100%;
+}

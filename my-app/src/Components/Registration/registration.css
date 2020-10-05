@@ -1,0 +1,26 @@
+.register-page {
+    height: 100vh;
+    background: #E5E5E5;
+}
+
+.register-page .logo {
+    max-height: 60px;
+    margin-bottom: 2rem;
+}
+
+.register-inside {
+    max-width: 570px;
+    padding: 2rem;
+    background: #fff;
+    border: 1px solid #ABABAB;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.register-page input {
+    display: block;
+    width: 462px;
+    padding: .7rem .5rem;
+    margin: .5rem 0;
+    outline: none;
+}
